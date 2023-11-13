@@ -1,0 +1,51 @@
+.cajaGris {
+    height: 100px;
+    width: 100px;
+    background-color: gray;
+}
+
+.cajaVerde {
+    height: 30px;
+    width: 30px;
+    background-color: green;
+}
+
+.cajaRoja {
+    height: 60px;
+    width: 60px;
+    background-color: red;
+}
+
+.relative {
+    position: relative;
+}
+
+.verde1 {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.verde2 {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.rojo2 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.rojo3 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.verde3 {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
